@@ -335,7 +335,7 @@ def main(window):
             player.kill()
             time.sleep(1)
 
-           pygame.quit()
+            pygame.quit()
             quit()
 
 
